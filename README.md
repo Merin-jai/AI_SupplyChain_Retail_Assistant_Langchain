@@ -8,3 +8,5 @@ npx create-react-app .
 INITIALISE BACKEND
 
 requirements.txt
+python -m pip install -r requirements.txt
+
