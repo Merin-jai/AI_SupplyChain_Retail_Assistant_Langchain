@@ -1,0 +1,23 @@
+# Core backend
+flask
+flask-cors
+
+# LangChain ecosystem
+langchain
+langgraph
+openai
+
+# Data handling
+pandas
+numpy
+
+# Forecasting
+prophet
+scikit-learn
+
+# Route optimization
+ortools
+
+# LLM tools (optional but useful)
+tiktoken          # Token counting (LangChain needs this)
+python-dotenv     # To load API keys from .env
